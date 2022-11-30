@@ -8,10 +8,10 @@ main:
     url: '#about'
     weight: 10
   - name: Posts
-    url: '#posts'
+    url: 'post'
     weight: 30
   - name: Research
-    url: '#research'
+    url: 'research/'
     weight: 20
 
 # Link to a PDF of your resume/CV from the menu.

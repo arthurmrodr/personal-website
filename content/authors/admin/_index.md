@@ -13,9 +13,9 @@ superuser: true
 role:
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name:
-    url: 
+#organizations:
+#  - name:
+#    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: MSc candidate, PUC-Rio
@@ -46,22 +46,22 @@ bio: MSc candidate, PUC-Rio
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:arthur.mauriciorodrigues@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/arthurmrodr
     label: Follow me on Twitter
     display:
       header: false
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/arthurmrodr
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/arthur-m-rodrigues-191040145/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,6 +77,8 @@ email: ''
 highlight_name: false
 ---
 
-I am an Economics MSc candidate at PUC-Rio. My research interests are applied microeconomics, industrial organization, causal inference and econometrics. Besides my research, I collaborate on RioMais Initiative and have worked on economic and public policy consultancy. You can download my CV here.
+<br/>
+
+I am an Economics MSc candidate at PUC-Rio. My research interests are applied microeconomics, industrial organization, causal inference and econometrics. Besides my research, I collaborate on [RioMais Initiative](https://riomais.org/) and have worked on economic and public policy consultancy. You can download my CV [here](https://drive.google.com/file/d/1Zp8J0PTQ0WnFiH2AhI3yA7ifwe0ulbLb/view?usp=sharing).
 
 When not working, you can probably find me sailing, playing (bad) online chess or attending the nearest football match.
