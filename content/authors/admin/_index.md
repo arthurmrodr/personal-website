@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Arthur M. Rodrigues
+title: 
 
 # Full name (for SEO)
 first_name: Arthur
@@ -10,15 +10,15 @@ last_name: Mauricio Rodrigues
 superuser: true
 
 # Role/position/tagline
-role: Bsc. Economics
+role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UFRJ
-    url: https://www.stanford.edu/
+  - name:
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: UFRJ
+bio: MSc candidate, PUC-Rio
 
 # Interests to show in About widget
 #interests:
@@ -52,7 +52,7 @@ social:
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -77,8 +77,6 @@ email: ''
 highlight_name: false
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Economics MSc candidate at PUC-Rio. My research interests are applied microeconomics, industrial organization, causal inference and econometrics. Besides my research, I collaborate on RioMais Initiative and have worked on economic and public policy consultancy. You can download my CV here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+When not working, you can probably find me sailing, playing (bad) online chess or attending the nearest football match.
