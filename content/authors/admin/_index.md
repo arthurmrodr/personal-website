@@ -79,6 +79,4 @@ highlight_name: false
 
 <br/>
 
-I am an Economics MSc candidate at PUC-Rio. My research interests are applied microeconomics, industrial organization, causal inference and econometrics. Besides my research, I collaborate on [RioMais Initiative](https://riomais.org/) and have worked on economic and public policy consultancy. You can download my CV [here](https://drive.google.com/file/d/1Hf9xPZaMs6nEQKlIo89K1BhiTuXYY7IX/view?usp=sharing).
-
-When not working, you can probably find me sailing, playing (bad) online chess or attending the nearest football match.
+I am an Economics MSc candidate at PUC-Rio. My research interests lie in applied economics, ranging from empirical industrial organization to development. Besides my research, I collaborate on RioMais Initiative and have worked on economic and public policy consultancy. You can download my CV [here](https://drive.google.com/file/d/1-5aahhn-XJ7-U_RuFrdZXELXpFnnRl9X/view?usp=sharing).
