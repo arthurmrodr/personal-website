@@ -14,15 +14,15 @@ header:
   image: ""
 ---
 
-## Working Papers
+## Publications
 
-["How to Deal with Exchange Rate Risk in Infrastructure and Other Long-Lived Projects"](https://openknowledge.worldbank.org/entities/publication/b8f89e1e-7d7e-4f31-8833-1f4bf10a9d84) with Luciano I. de Castro and Claudio R. Frischtak. **World Bank Policy Research Working Papers n. 10568, 2023.**
+["How to Deal with Exchange Rate Risk in Infrastructure and Other Long-Lived Projects"](https://onlinelibrary.wiley.com/doi/10.1111/jpet.70003) with Luciano I. de Castro and Claudio R. Frischtak. **Journal of Public Economic Theory, 2025.**
 
 Media coverage: [Valor Econômico](https://valor.globo.com/opiniao/coluna/como-lidar-com-risco-cambial-em-projetos-de-infraestrutura.ghtml)
 
-## Work in progress
+## Working Papers
 
-"Primary Care and Educational Attainment: Evidence from Brazilian Family Health Strategy" with Romero Rocha.
+["Primary Care and Educational Attainment: Evidence from Brazilian Family Health Strategy"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4856384) with Romero Rocha. **revise and resubmit, Health Economics**
 
 ## Book Chapters
 
